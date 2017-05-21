@@ -1,0 +1,9 @@
+*.filters
+*.vcxproj
+*.suo
+*.sdf
+*.cmake
+Cmakefiles/
+CmakeCache.txt
+x64/
+DelimitedTextReader.dir/
